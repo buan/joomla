@@ -1,0 +1,5 @@
+Once the articles are created, we need to format them
+1)By default we use wysiwig editor to format our data
+2)We have a field called tags..Other than categories,you can also classify your content with tags.Write something and it automatically gets created.For joomla overview article, we have used climate and overview as tag words
+3)Go to publishing tab, and in publishing options,we have start publishing and finish publishing.A article has finish publishing data which means that after that date it will not be seen published
+4)Under content tab,there is a toggle editor button at the bottom
