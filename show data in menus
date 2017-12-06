@@ -1,0 +1,21 @@
+We will complete the last section in joomla,which is the show articles in menus.
+
+For menus, go to Menus->Manage. You will see we have 1 menu :Main menu. This contains the home menu, which comes with installation.
+
+We will create a menu named Joomlaville About menu..Under this we will place the articles related to About category.like overview,location and history
+
+After creating the menu..click on the menu and select menu items..Place each menus here...Select these options
+a)Menu item type=Single article
+b)Select the article and save
+
+But the menus will not appear.We need to make it appear.
+We need to make it appear in the regions...In joomla, we call these regions as modules..We need to add module positions.
+
+For eg-We have login module which shows login positions. Main menu which shows Home links.
+We will create an about menu
+
+a)Go to extensions->modules->+new
+b)Select menu.Right now there are 2 menus.About and main menu.We will select About and select the position..The position selected here is right middle
+
+Now refresh site,you will get the menus
+This is one type of menus
