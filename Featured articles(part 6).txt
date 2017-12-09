@@ -1,0 +1,5 @@
+Our home page is blank..We need to add an article to our home page. Those articles are called featured articles
+
+Click on any article and click on the yellow star to make it featured. Refresh Home page, you will see featured articles
+
+We made airport as featured article..toggle the star again to remove it from featured articles

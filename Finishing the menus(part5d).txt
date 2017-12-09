@@ -1,0 +1,3 @@
+We will finish off the menus with Transportation category
+1)We will create a menu with single article again and follow the same steps
+2)Now you can reorder menus.Go to Modules.Select menu as search tools.Click the upper left sort button and when it turns blue,drag one menu up according to your desired position.
