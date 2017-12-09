@@ -1,0 +1,8 @@
+We will show another menu item called category list. This we will do for festivals.
+Similarly create a menu.Then create a menu item associated with it. We will call it Festivals. Under menu items select category and select category list.. This will show the items in a table. Select module->right middle
+
+It will show you 3 columns by default. Title,Author,Hits
+
+Under Festival menu items->list layout option
+select "Show Hits in List" and hide. 
+

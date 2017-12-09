@@ -1,0 +1,26 @@
+We have included single page article here in menu.. We will see the blog layout view for menus.. We will do that for the category "attractions"
+
+Steps:
+1)Create menu named Attractions
+2)Add menu item type named Attractions. and choose it as category blog. and associate "menu name" as attractions
+3)Now we need to show. Go to extensions->modules->attractions and select position as 
+position-8(right middle)
+4)Now you will see the Attractions menu and while clickin on it..you will see the 3 articles associated wih it
+5)You can see 1 article on top and then you can see 2 articles down.You can change the layout
+
+Go to Blog Layout under Menu item->attractions
+You will see a lot of settings.By default joomla shows
+1 Leading Article
+4 Intro articles
+2 Columns
+and
+2 Links
+
+Lets change from 2 Columns to 1 Column. You will se akll the 3 articles come one after another
+
+We will do one more change
+We will add read more to those articles
+a)Go to any 1 article under attractions
+b)Select the line upto you want to show in snippets and then click on read more from wysiwig editor. Do the same for other 2.So when you click on the Read more button,it will take you the full article
+
+We will fix the breadcrumbs which appear at the bottom
