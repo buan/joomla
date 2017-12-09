@@ -12,7 +12,7 @@ d)transport
 
 add articles
 a)about=1.Joomlaville overview 2.Joomlaville location 3.Joomlville history
-b)Attractions=1.meuseum 2.zoo 3.aquarium
+b)Attractions=1.museum 2.zoo 3.aquarium
 c)festivals=1.new years 2.independence day 3.mother's day
 d)transport=1. train station 2. bus station 3. airport
 
