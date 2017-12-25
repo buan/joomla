@@ -1,0 +1,6 @@
+Now that we have added content in a site,we want to add some more functionality to the site by extensions.In Joomla there are 5 types of extensions
+a)Components=Usually larger scripts
+b)Modules
+c)Templates
+d)Plugins
+e)Languages

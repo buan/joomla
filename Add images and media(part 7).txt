@@ -1,0 +1,21 @@
+Before adding images and media,we will re edit the transport/airport. Go to joomlaville and copy airport text from chapter5. Apply some styles
+
+Now for media, go to content->media.You will see a sample folder(sampledata).Create 4 folders for for categories here
+a)Attractions
+b)Transportation
+c)About
+d)Festivals
+
+Grab an airport pic.Upload it in folder transport/
+Upload and click insert.We will chose float left and give the description .Drag the image to which postion you want to show .Description will be Alt text. save and close
+
+Another way to insert image
+===========================
+Remove the image from the article. Go to images and links tab.You will see you can add images there also.But those images will be added at the top. Select the image for both intro text and full article image.Float:none.You will see the image comes on top.This is a preferred way to upload pages in the top.
+
+Intro text image
+================
+For this we will use the feature in a blog layout. We will insert the image in the intro text.So when the attractions are clicked ,we can see the image, but when full article is clicked, we wont see the image
+
+
+These are the ways you can add images

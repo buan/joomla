@@ -1,0 +1,1 @@
+Joomla Article Options can be seen at System->Global Configuration->Articles.Play with the options
